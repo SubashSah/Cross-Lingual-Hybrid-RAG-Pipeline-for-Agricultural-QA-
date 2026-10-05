@@ -172,8 +172,8 @@ flowchart TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/SubashSah/Cross-Lingual-Hybrid-RAG-Pipeline-for-Agricultural-QA-.git
+cd <Cross-Lingual-Hybrid-RAG-Pipeline-for-Agricultural-QA>
 ```
 
 ### 2. Create and Activate a Virtual Environment
